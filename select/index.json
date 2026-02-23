@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ソングオブザデッド - Song of the Dead",
+  "base_artist": "KANA-BOON",
+  "createdAt": "2026-02-23T05:44:57.023791Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ソングオブザデッド",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/01_ソングオブザデッド_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ソングオブザデッド - Song of the Dead",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/02_ソングオブザデッド_-_Song_of_the_Dead_KANA-BOON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ソングオブザデッド",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/pl_01_ソングオブザデッド_KANA-BOON.txt"
+    }
+  ]
+}
